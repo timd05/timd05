@@ -1,7 +1,6 @@
 ## Hi,I'm Tim 👋
 
 I'm a Computer Science student and aspiring Web Developer with a strong interest in building modern, responsive, and accessible web applications. I enjoy working on both the frontend and backend, and I'm always looking to learn new technologies and best practices in software development.
-Here are some ideas to get you started:
 
 ## 🌱 About Me
 
