@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tim  
 
 💻 I'm a **Computer Science student** with a broad interest in  
-**Web Development**, **Operating Systems (Linux)**, and **Cyber Security**.  
+**Web Development**, **Operating Systems (Linux/Windows)**, and **Cyber Security**.  
 I love building modern applications, exploring how systems work under the hood,  
 and finding ways to make technology more secure.  
 
@@ -21,8 +21,8 @@ and finding ways to make technology more secure.
 - **Backend:** Node.js • Express.js • MongoDB • PostgreSQL  
 
 ### 🐧 Operating Systems & Tools  
-- Linux (daily driver, server administration, shell scripting)
-- Windows  
+- Linux (advanced knowledge)
+- Windows  (advanced knowledge)
 - Git & GitHub  
 - VS Code  
 
