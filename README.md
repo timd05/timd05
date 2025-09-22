@@ -18,7 +18,8 @@ and finding ways to make technology more secure.
 
 ### 🌐 Web Development  
 - **Frontend:** HTML5 • CSS3 • JavaScript • React.js  
-- **Backend:** Node.js • Express.js • MongoDB • PostgreSQL  
+- **Backend:** Node.js • Express.js • MongoDB • PostgreSQL
+- **Recent Projects:** [Movie Store App](https://github.com/timd05/Movie-Store-App) • [Habit Tracking App](https://github.com/timd05/Habit-Tracker-App)
 
 ### 🐧 Operating Systems & Tools  
 - Linux (advanced knowledge)
@@ -27,8 +28,8 @@ and finding ways to make technology more secure.
 - VS Code  
 
 ### 🔐 Cyber Security  
-- 🛡️ Password Strength Analysis → [Password Strength Checker](#)  
-- ⌨️ Input Monitoring → [Python Keylogger](#)  
+- 🛡️ Password Strength Analysis → [Password Strength Checker](https://github.com/timd05/Password_strength_checker)  
+- ⌨️ Input Monitoring → [Python Keylogger](https://github.com/timd05/Python-Keylogger)  
 - 🔒 Interest in system hardening & secure coding practices  
 
 ---
